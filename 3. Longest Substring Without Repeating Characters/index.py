@@ -21,7 +21,7 @@ class Solution:
 
         return res  # Return the length of the longest substring without repeating characters
 
-
+ 
 solution = Solution()
 s = "abcabcbb"
 print(solution.lengthOfLongestSubstring(s))  # Output: 3
